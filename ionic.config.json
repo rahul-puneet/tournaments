@@ -1,0 +1,14 @@
+{
+    "defaultProject": "mobile",
+    "projects": {
+      "mobile": {
+        "name": "tournment app",
+        "root": "apps/mobile",
+        "type": "angular",
+        "integrations": {
+        
+        }
+      }
+    }
+  }
+
